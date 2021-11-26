@@ -7,7 +7,7 @@ append, insert, pop, del, clear, extend, +
 min, max
 range
 """
-secreto = 'perfume'
+secreto = input("Digite um letra para o jogo: ")
 digitadas = []
 chances = 3
 
