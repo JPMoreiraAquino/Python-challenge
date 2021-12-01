@@ -12,7 +12,7 @@ for secret_letter in secret:
 
     print(f"interaction for letter {secret_letter}")
     if attempt <= 0:
-        print("você perdeu")
+        print("you lost")
     elif secret_letter in typed:
         print(f"Good, a letter lyrics i wanted {secret_letter} ")
         temporaray_secret += secret_letter
