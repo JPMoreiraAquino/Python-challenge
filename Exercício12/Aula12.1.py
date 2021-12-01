@@ -21,4 +21,4 @@ while True:
             soma += menor
         menor += 1
     print(f"SUM OF THE ODDS = {soma}")
-    para = input("Quer para (s)im / (n)ão: ")
+    para = input("you want to stop? (s)im / (n)ão: ")
