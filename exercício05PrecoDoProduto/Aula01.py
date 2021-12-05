@@ -1,4 +1,3 @@
-
 try:
     price = input("price of the product: ")
     product_quantity = input("quantity of the product: ")
@@ -17,4 +16,3 @@ try:
         print(f'Change of money = {change_of_money:.2f}')
 except:
     print("Enter only Numbers")
-

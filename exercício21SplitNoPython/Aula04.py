@@ -1,4 +1,4 @@
-string = 'O Flamengo Flamengo perdeu para o palmeira, na final da libertadores.'
+string = 'Flamengo Flamengo lost to Palmeira, in the Libertadores final.'
 
 lista_1 = string.split(' ')
 
