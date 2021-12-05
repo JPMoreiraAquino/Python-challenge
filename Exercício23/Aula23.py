@@ -15,4 +15,5 @@
 #     print(f"the sum of these {sum} numbers are = {sum_number} ")
 #     print(f"SUM = {sum}")
 
-for i in range(0,10)
+for i in range(0,10):
+    print('oi')
