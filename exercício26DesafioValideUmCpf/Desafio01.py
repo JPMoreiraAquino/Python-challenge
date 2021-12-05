@@ -1,18 +1,18 @@
 cpf = '16899535009'
 
 new_cpf = cpf[:-2]
-reverse = 10
+reserve = 10
 total = 0
 
 for index in range(19):
     if index > 8:
         index -= 9
 
-    total += int(new_cpf[index]) * reverse
+    total += int(new_cpf[index]) * reserve
 
-    reverse -= 1
-    if reverse < 2:
-        reverse = 11
+    reserve -= 1
+    if reserve < 2:
+        reserve = 11
         d = 11 - (total % 11)
 
         if d > 9:
