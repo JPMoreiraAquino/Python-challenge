@@ -9,6 +9,7 @@ contagem = 0
 
 for valor in lista_2:
     qtd_vezes = lista_2.count(valor)
+    print(lista_2.count(valor))
 
     if qtd_vezes > contagem:
         contagem = qtd_vezes
