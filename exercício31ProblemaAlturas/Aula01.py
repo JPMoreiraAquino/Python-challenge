@@ -1,11 +1,14 @@
 n = input("Quantas pessoa serão digitadas?: ")
 n = int(n)
+
 idadeL = []
 alturaa = []
 nomeL = []
 alturasoma = 0
 menos16 = 0
 todasidades = 0
+
+nomeMenor16 = ()
 
 
 for i in range(n):
@@ -25,12 +28,16 @@ for i in range(n):
 for i in range(n):
     if idadeL[i] < 16:
         menos16 += 1
+        todasidades += 1
+        nomeMenor16 += nomeL[i]
     else:
         todasidades += 1
 
-print(todasidades, menos16)
 print(f"altura Média:{alturasoma / n}")
-print(f"Pessoa com menos de 16 anos:{(menos16 /) * menos16}")
+print(f"Pessoa com menos de 16 anos: {menos16 / todasidades * 100:.0f}%")
+
+print(nomeMenor16, end=" ")
+
 
 
 

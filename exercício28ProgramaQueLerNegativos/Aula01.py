@@ -8,13 +8,14 @@ if n > 10:
 else:
     for i in range(n):
         num = input("typer one number:")
-        num = int(num)
+        num = float(num)
         if num < 0:
             negative_numbers.append(num)
             accumulator += 1
 
-print('negative numbers'.upper())
-for i in range(accumulator):
-    print(negative_numbers[i])
+    print('negative numbers'.upper())
+    for i in range(accumulator):
+        print(negative_numbers[i])
+
 
 
