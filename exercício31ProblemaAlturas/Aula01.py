@@ -8,7 +8,7 @@ alturasoma = 0
 menos16 = 0
 todasidades = 0
 
-nomeMenor16 = ()
+nomeMenor16 = []
 
 
 for i in range(n):
@@ -29,14 +29,25 @@ for i in range(n):
     if idadeL[i] < 16:
         menos16 += 1
         todasidades += 1
-        nomeMenor16 += nomeL[i]
+        nomeMenor16.append(nomeL[i])
     else:
         todasidades += 1
+
+
+
 
 print(f"altura Média:{alturasoma / n}")
 print(f"Pessoa com menos de 16 anos: {menos16 / todasidades * 100:.0f}%")
 
-print(nomeMenor16, end=" ")
+for i in range(n):
+    try:
+        print(nomeMenor16[i] or "nao existe nenhuma pessoa com menos de 16 :(")
+    except:
+        False
+
+
+
+
 
 
 
