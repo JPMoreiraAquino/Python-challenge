@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7feddd0e-7808-4566-8c7f-574ca60edae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercício35Soma_de_listas/Aula01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício36soma_vetores/Aula01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício37abaixo_da_media/Aula01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício38media_pares/Aula01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercício39cobaias/Aula01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercício34/Aula01.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercício34MaiorNumero/Aula01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.Aula01 (1)">
+  <component name="RunManager" selected="Python.Aula01 (2)">
     <configuration name="Aula01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula01 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula01 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +77,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício34" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício39cobaias" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício34/Aula01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício39cobaias/Aula01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula01 (2)" />
         <item itemvalue="Python.Aula01 (1)" />
         <item itemvalue="Python.Aula01 (5)" />
         <item itemvalue="Python.Aula01" />
         <item itemvalue="Python.Aula01 (4)" />
-        <item itemvalue="Python.Aula01 (3)" />
       </list>
     </recent_temporary>
   </component>
