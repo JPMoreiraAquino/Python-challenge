@@ -5,28 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7feddd0e-7808-4566-8c7f-574ca60edae6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercício40DesaiosGuanabara/desafio06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio07.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio08.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio09.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio10.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio11.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio12.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio13.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio14.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio15.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio16.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio17.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio18.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio19.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio20.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio21.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercício40DesaiosGuanabara/desafio06.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesaiosGuanabara Respostas/desafio06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +74,8 @@
       <recent name="C:\Users\jp021\OneDrive\Documentos\GitHub\Python-challenges\exercício40DesaiosGuanabara" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio08">
-    <configuration name="Desafio04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Desafio16">
+    <configuration name="Desafio12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício40DesaiosGuanabara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesaiosGuanabara Respostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício40DesaiosGuanabara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesaiosGuanabara Respostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício40DesaiosGuanabara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesaiosGuanabara Respostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício40DesaiosGuanabara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesaiosGuanabara Respostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício40DesaiosGuanabara/Desafio08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-challenges" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercício40DesaiosGuanabara" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesaiosGuanabara Respostas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercício40DesaiosGuanabara/desafio06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesaiosGuanabara Respostas/Desafio16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Desafio08" />
-        <item itemvalue="Python.Desafio07" />
-        <item itemvalue="Python.desafio06" />
-        <item itemvalue="Python.Desafio05" />
-        <item itemvalue="Python.Desafio04" />
+        <item itemvalue="Python.Desafio16" />
+        <item itemvalue="Python.Desafio15" />
+        <item itemvalue="Python.Desafio14" />
+        <item itemvalue="Python.Desafio13" />
+        <item itemvalue="Python.Desafio12" />
       </list>
     </recent_temporary>
   </component>
